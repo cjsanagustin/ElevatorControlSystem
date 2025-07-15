@@ -15,7 +15,7 @@ Code Exercise for NetRoadShow Mid-level C# Engineer Position
 
 ## Elevator Legends:
 
-1. ... - Idle
-2. [ ] - Embark/Disembark
-3. \\/ - Moving Down
-4. /\\ - Moving Up
+1. `...` - Idle
+2. `[ ]` - Embark/Disembark
+3. ` \/` - Moving Down
+4. ` /\` - Moving Up
